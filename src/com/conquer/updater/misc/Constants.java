@@ -39,13 +39,13 @@ public final class Constants {
 
     public static final String PROP_AB_DEVICE = "ro.build.ab_update";
     public static final String PROP_BUILD_DATE = "ro.build.date.utc";
-    public static final String PROP_BUILD_VERSION = "ro.lineage.build.version";
+    public static final String PROP_BUILD_VERSION = "ro.conquer.build.version";
     public static final String PROP_BUILD_VERSION_INCREMENTAL = "ro.build.version.incremental";
-    public static final String PROP_DEVICE = "ro.lineage.device";
+    public static final String PROP_DEVICE = "ro.conquer.device";
     public static final String PROP_NEXT_DEVICE = "ro.updater.next_device";
-    public static final String PROP_RELEASE_TYPE = "ro.lineage.releasetype";
-    public static final String PROP_UPDATER_ALLOW_DOWNGRADING = "lineage.updater.allow_downgrading";
-    public static final String PROP_UPDATER_URI = "lineage.updater.uri";
+    public static final String PROP_RELEASE_TYPE = "ro.conquer.build.type";
+    public static final String PROP_UPDATER_ALLOW_DOWNGRADING = "conquer.updater.allow_downgrading";
+    public static final String PROP_UPDATER_URI = "conquer.updater.uri";
     public static final String PROP_DISABLE_UNCRYPT = "sys.ota.disable_uncrypt";
     public static final String PROP_RECOVERY_UPDATE = "persist.sys.recovery_update";
 
